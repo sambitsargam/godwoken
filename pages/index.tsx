@@ -35,10 +35,10 @@ export default function Home() {
 							<br />
 							<a
 								className="text-blue-400 underline"
-								href="https://dev.ckb.tools/create-layer2-account"
+								href="https://testnet.bridge.godwoken.io/"
 								target="_blank"
 							>
-								https://dev.ckb.tools/create-layer2-account
+								https://testnet.bridge.godwoken.io/
 							</a>
 						</p>
 					</div>
